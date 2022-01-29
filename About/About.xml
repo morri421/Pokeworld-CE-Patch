@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>PokeWorldCE Patch</name>
+	<author>Palos</author>
+	<url>https://github.com/Gargamiel/PokeWorld.git</url>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<description>A patch that allows minimal compatibility between the Combat Extended mod and Pokeworld. Currently, it only fixes the accuracy issue for all Pokemon by adding the relevants CE stats.</description>
+</ModMetaData>
