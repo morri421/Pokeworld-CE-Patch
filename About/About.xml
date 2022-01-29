@@ -3,6 +3,7 @@
 <ModMetaData>
 	<name>PokeWorldCE Patch</name>
 	<author>Palos</author>
+	<packageId>Palos.PokeWorldCE.Patch</packageId>
 	<url>https://github.com/morri421/Pokeworld-CE-Patch</url>
 	<supportedVersions>
 		<li>1.3</li>
